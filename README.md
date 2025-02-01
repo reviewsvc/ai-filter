@@ -13,3 +13,7 @@ AiFilter is a lightweight Chrome extension that automatically appends `-ai` to y
 1. Download and unzip archive
 2. Open chrome://extensions
 3. Click Load unpacked and choose unzipped folder.
+
+## Author
+Nick Oscar
+https://reviews.vc
