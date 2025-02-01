@@ -1,0 +1,20 @@
+{
+  "extensionName": {
+    "message": "AiFilter – Filter AI Overview from Search"
+  },
+  "extensionDescription": {
+    "message": "Filter out AI-generated content from Google search results by adding '-ai' flag."
+  },
+  "instructions": {
+    "message": "Toggle the option to add '-ai' filter to your Google search queries."
+  },
+  "aiFilterSettings": {
+    "message": "AI Filter Settings"
+  },
+  "enableAiFilter": {
+    "message": "Enable '-ai' filter"
+  },
+  "aiFilterTooltip": {
+    "message": "When enabled, '-ai' will be appended to your search query to filter out AI generated content."
+  }
+}
